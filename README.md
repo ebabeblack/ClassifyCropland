@@ -3,11 +3,10 @@
 ## Introduction
 
 Using the Tool in ArcGIS
-The "Summarize Cropland" tool can be found within the ArcGIS project under the toolbox. Follow these steps to use the tool:
+What I've done in this Repo is put the code for the script tool I created, the code can be manually copied into your ArcGIS environment, you'll have to manually set parameters!:
 
 ## Repo Organization
 - **ClassifyCropland.py** is just the python script that the tool uses. Feel free to copy this into a tool within your own environment and manually adjust the inputs
-- **ClassifyCropland.ppkx** is a packaged project file that has the tool and a sample dataset to run the tool on. 
 
 ### Open the Tool:
 
